@@ -67,7 +67,6 @@ aside {
     aside .toolbox .checkbox    { background-position: -40px 0;}
     aside .toolbox .radio       { background-position: -80px 0;}
     aside .toolbox .combobox    { background-position: -120px 0;}
-    aside .toolbox .hscrollbar  { background-position: -480px 0;}
     aside .toolbox .text        { background-position: -160px 0;}
     aside .toolbox .heading     { background-position: -200px 0;}
     aside .toolbox .paragraph   { background-position: -240px 0;}
@@ -76,6 +75,7 @@ aside {
     aside .toolbox .image       { background-position: -360px 0;}
     aside .toolbox .rectangle   { background-position: -400px 0;}
     aside .toolbox .circle      { background-position: -440px 0;}
+    aside .toolbox .hscrollbar  { background-position: -480px 0;}
 
 article {
     background: white url(../images/paper.png);
